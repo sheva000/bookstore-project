@@ -127,7 +127,7 @@ const Login = () => {
           </button>
         </div>
         <p className="mt-3 text-center text-gray-500 text-sm">
-          ©2025 Juraj Pauker
+          ©2024 Juraj Pauker
         </p>
       </div>
     </div>
