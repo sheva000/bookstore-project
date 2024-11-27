@@ -101,7 +101,7 @@ const Register = () => {
             <span className="mt-0.5">Sign in with Google</span>
           </button>
         </div>
-        <p className="mt-3 text-center text-gray-500 text-sm">©2025 Juraj Pauker</p>
+        <p className="mt-3 text-center text-gray-500 text-sm">©2024 Juraj Pauker</p>
       </div>
     </div>
   );
