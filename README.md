@@ -1,10 +1,11 @@
 # bookstore
  Bookstore Project Installation Guide
 
- 1. Install Docker Desktop if you do not already have it installed
- 2. After it is finished installing, open the Docker terminal
- 3. In the Docker terminal, navigate to the 'bookstore-project' folder
- 4. The path should look something like this:  C:\folder1\folder2\bookstore-project> (The drive letter and folder names will vary, this is just an example)
- 5. After the 4th step, write 'docker-compose.exe up -d' in the Terminal (without quotation marks)
- 6. The command will start the process of pulling two containers and after they are finished they will be started
- 7. When the containers are running, go to your browser and in the URL field enter 127.0.0.1:222
+1. Open the bookstore-project-main folder in Visual Studio Code
+2. Open the terminal in Visual Studio Code
+3. Open another terminal so that you have two terminals side-to-side (you can do this by clicking on the button in the top right of the terminal that looks like a rectangle with a vertical line through the middle)
+4. In the first terminal, navigate to the frontend folder using the command "cd frontend"
+5. In the second terminal, navigate to the backend folder using the command "cd backend"
+6. After you have navigated to the respective folders, type "npm install" into both terminals and wait until installation is finished
+7. After the installation is finished, type "npm run dev" in the frontend terminal, and "npm run start:dev" in the backend terminal
+8. The frontend terminal will show you the link to the page on which the application will be running (in my case localhost:5173)
