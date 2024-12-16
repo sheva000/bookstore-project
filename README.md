@@ -11,7 +11,7 @@
 8. Install dependencies in both terminals by typing: npm install
 9. Wait until the instalation is finished
 10. To start the project: type "npm run dev" in the frontend terminal, and "npm run start:dev" in the backend terminal
-11. The frontend terminal will display a link to the application (in my case http://localhost:5173). Open this link in your browser to access the Bookstore application.
+11. The frontend terminal will display a link to the application (in my case localhost:5173). Open this link in your browser to access the Bookstore application.
 
 Notes:
 Make sure Node.js is installed on your system
