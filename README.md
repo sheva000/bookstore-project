@@ -1,4 +1,4 @@
-# bookstore
+# Installation Guide
  Bookstore Project Installation Guide
 
 1. Download the source code, which will be downloaded as a .zip file
